@@ -1,0 +1,196 @@
+[
+  {
+    "contract_id": "CONTRACT_001",
+    "contract_name": "Master Service Agreement - Data Analytics Platform",
+    "contract_type": "master_service_agreement",
+    "counterparty_name": "Northbridge Analytics Ltd",
+    "counterparty_jurisdiction": "GB",
+    "effective_date": "2026-07-01",
+    "contract_value": 480000.00,
+    "currency": "GBP",
+    "governing_law": "England and Wales",
+    "contract_summary": "12-month MSA for a data analytics platform implementation, repeat engagement with a counterparty the firm has worked with twice before.",
+    "clauses": [
+      {"clause_type": "indemnification", "clause_text": "Each party shall indemnify the other against third-party claims arising from its breach, capped at fees paid in the preceding 12 months, excluding claims for gross negligence or IP infringement which remain uncapped.", "section_reference": "Clause 14"},
+      {"clause_type": "liability_cap", "clause_text": "Aggregate liability of either party shall not exceed 2x the total fees paid under this agreement in the preceding 12 months. Neither party shall be liable for consequential or indirect losses.", "section_reference": "Clause 15"},
+      {"clause_type": "termination", "clause_text": "Either party may terminate for convenience on 90 days' written notice, or for material breach following a 30-day cure period.", "section_reference": "Clause 18"},
+      {"clause_type": "ip_assignment", "clause_text": "Client shall own all deliverables created specifically for this engagement. Vendor retains ownership of pre-existing IP, tools, and general know-how used to deliver the services.", "section_reference": "Clause 9"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of England and Wales, and the parties submit to the exclusive jurisdiction of the English courts.", "section_reference": "Clause 22"},
+      {"clause_type": "confidentiality", "clause_text": "Both parties shall keep confidential information disclosed by the other party confidential for 5 years following termination, subject to standard carve-outs.", "section_reference": "Clause 12"},
+      {"clause_type": "payment_terms", "clause_text": "Invoices are payable within 30 days of receipt. Late payment accrues interest at the Bank of England base rate plus 8%.", "section_reference": "Clause 8"},
+      {"clause_type": "data_protection", "clause_text": "Vendor shall process personal data only in accordance with Client's instructions and UK GDPR, and the parties shall execute a data processing addendum in the form of Schedule 3.", "section_reference": "Clause 16"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_002",
+    "contract_name": "Vendor Agreement - Cloud Infrastructure Hosting",
+    "contract_type": "vendor_agreement",
+    "counterparty_name": "Cirrus Hosting Solutions Inc",
+    "counterparty_jurisdiction": "US",
+    "effective_date": "2026-07-15",
+    "contract_value": 220000.00,
+    "currency": "USD",
+    "governing_law": "Delaware",
+    "contract_summary": "24-month cloud hosting agreement with a new US-based vendor, first engagement with this counterparty.",
+    "clauses": [
+      {"clause_type": "liability_cap", "clause_text": "Vendor's total liability under this agreement is unlimited for all claims arising from the services provided.", "section_reference": "Section 11"},
+      {"clause_type": "termination", "clause_text": "Vendor may terminate this agreement at any time upon 10 days' notice to Client for any reason. Client may terminate only for uncured material breach following 60 days' notice.", "section_reference": "Section 14"},
+      {"clause_type": "payment_terms", "clause_text": "Invoices are payable within 30 days of receipt.", "section_reference": "Section 6"},
+      {"clause_type": "confidentiality", "clause_text": "Client shall keep Vendor's pricing and technical information confidential for 5 years. This obligation is not reciprocal.", "section_reference": "Section 9"},
+      {"clause_type": "warranty", "clause_text": "Services are provided 'as is' with no warranty of any kind, express or implied.", "section_reference": "Section 10"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of the State of Delaware.", "section_reference": "Section 18"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_003",
+    "contract_name": "Mutual Non-Disclosure Agreement - Product Partnership Discussions",
+    "contract_type": "nda",
+    "counterparty_name": "Veltrix Consulting Group",
+    "counterparty_jurisdiction": "GB",
+    "effective_date": "2026-07-05",
+    "contract_value": null,
+    "currency": null,
+    "governing_law": "England and Wales",
+    "contract_summary": "Standard NDA ahead of exploratory partnership discussions, no commercial value attached.",
+    "clauses": [
+      {"clause_type": "confidentiality", "clause_text": "Each party shall protect the other's confidential information using the same degree of care it uses for its own confidential information, for a period of 3 years from disclosure, subject to standard carve-outs for public domain and independently developed information.", "section_reference": "Clause 3"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of England and Wales.", "section_reference": "Clause 8"},
+      {"clause_type": "termination", "clause_text": "This agreement remains in effect for 2 years from the effective date unless terminated earlier by mutual written consent.", "section_reference": "Clause 6"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_004",
+    "contract_name": "Employment Agreement - VP Commercial",
+    "contract_type": "employment_agreement",
+    "counterparty_name": "Individual Executive Hire",
+    "counterparty_jurisdiction": "GB",
+    "effective_date": "2026-08-01",
+    "contract_value": null,
+    "currency": null,
+    "governing_law": "England and Wales",
+    "contract_summary": "Senior executive hire, employment agreement drafted by the counterparty's representative for review before countersignature.",
+    "clauses": [
+      {"clause_type": "non_compete", "clause_text": "For a period of 36 months following termination of employment for any reason, the Employee shall not engage in, own, manage, or provide services to any business anywhere in the United Kingdom that competes with the Company in any product or service line, whether or not the Employee had any involvement with that line while employed.", "section_reference": "Clause 17"},
+      {"clause_type": "confidentiality", "clause_text": "The Employee shall keep all Company confidential information confidential indefinitely following termination.", "section_reference": "Clause 15"},
+      {"clause_type": "ip_assignment", "clause_text": "All inventions, works, and materials created by the Employee during employment, whether or not related to the Company's business, shall be the sole property of the Company.", "section_reference": "Clause 16"},
+      {"clause_type": "termination", "clause_text": "The Company may terminate this agreement immediately without notice or payment in lieu of notice at its sole discretion.", "section_reference": "Clause 19"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of England and Wales.", "section_reference": "Clause 22"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_005",
+    "contract_name": "Software Licensing Agreement - Analytics Engine",
+    "contract_type": "licensing_agreement",
+    "counterparty_name": "Meridian Software Partners",
+    "counterparty_jurisdiction": "IE",
+    "effective_date": "2026-07-20",
+    "contract_value": 150000.00,
+    "currency": "EUR",
+    "governing_law": "Ireland",
+    "contract_summary": "3-year license for an analytics engine embedded into the client's own product, first engagement with this licensor.",
+    "clauses": [
+      {"clause_type": "ip_assignment", "clause_text": "Licensee shall own all customisations made to the licensed software during the term. Ownership of any pre-existing components, libraries, or general improvements made by Licensor is not addressed in this agreement.", "section_reference": "Section 7"},
+      {"clause_type": "liability_cap", "clause_text": "Licensor's aggregate liability shall not exceed 1x the annual license fee. Consequential damages are excluded.", "section_reference": "Section 12"},
+      {"clause_type": "payment_terms", "clause_text": "Annual license fees are payable within 30 days of invoice.", "section_reference": "Section 5"},
+      {"clause_type": "termination", "clause_text": "Either party may terminate for material breach following a 30-day cure period, or for convenience on 90 days' notice.", "section_reference": "Section 14"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of Ireland.", "section_reference": "Section 19"},
+      {"clause_type": "warranty", "clause_text": "Licensor warrants the software will perform materially in accordance with the documentation for 90 days following delivery.", "section_reference": "Section 11"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_006",
+    "contract_name": "Commercial Lease - Regional Office Expansion",
+    "contract_type": "commercial_lease",
+    "counterparty_name": "Ashford Property Holdings Ltd",
+    "counterparty_jurisdiction": "GB",
+    "effective_date": "2026-09-01",
+    "contract_value": 96000.00,
+    "currency": "GBP",
+    "governing_law": "England and Wales",
+    "contract_summary": "5-year lease for a new regional office, landlord's standard-form lease provided for review.",
+    "clauses": [
+      {"clause_type": "termination", "clause_text": "This lease may be terminated by the Landlord at any time upon 30 days' notice if the Landlord requires the premises for redevelopment. The Tenant may terminate only at the end of the fifth year.", "section_reference": "Clause 6"},
+      {"clause_type": "payment_terms", "clause_text": "Rent of GBP 8,000 per month is payable quarterly in advance.", "section_reference": "Clause 4"},
+      {"clause_type": "governing_law", "clause_text": "This lease is governed by the laws of England and Wales.", "section_reference": "Clause 21"},
+      {"clause_type": "dispute_resolution", "clause_text": "Any dispute shall first be referred to good-faith negotiation between the parties for 30 days before either party may commence litigation.", "section_reference": "Clause 19"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_007",
+    "contract_name": "Strategic Partnership Agreement - Joint Go-to-Market",
+    "contract_type": "partnership_agreement",
+    "counterparty_name": "Atlas Digital Ventures LLC",
+    "counterparty_jurisdiction": "NG",
+    "effective_date": "2026-08-15",
+    "contract_value": 610000.00,
+    "currency": "USD",
+    "governing_law": "Lagos State, Nigeria",
+    "contract_summary": "3-year joint go-to-market partnership for West African market entry, first engagement with this counterparty.",
+    "clauses": [
+      {"clause_type": "indemnification", "clause_text": "Client shall indemnify Partner against any and all claims arising out of or related to this agreement without limitation. Partner's indemnification obligations to Client are limited to direct damages up to USD 50,000.", "section_reference": "Article 9"},
+      {"clause_type": "termination", "clause_text": "Partner may terminate this agreement at will upon 15 days' notice. Client may terminate only for material breach following a 90-day cure period.", "section_reference": "Article 12"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of Lagos State, Nigeria, with exclusive jurisdiction of the Lagos State High Court.", "section_reference": "Article 18"},
+      {"clause_type": "ip_assignment", "clause_text": "Each party retains ownership of its own pre-existing intellectual property. Jointly developed materials are owned jointly, with each party free to exploit them without accounting to the other.", "section_reference": "Article 10"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_008",
+    "contract_name": "Sales Contract - Enterprise Hardware Supply",
+    "contract_type": "sales_contract",
+    "counterparty_name": "Thornfield Hardware Group",
+    "counterparty_jurisdiction": "GB",
+    "effective_date": "2026-07-10",
+    "contract_value": 340000.00,
+    "currency": "GBP",
+    "governing_law": "England and Wales",
+    "contract_summary": "One-off supply contract for enterprise networking hardware, repeat vendor with a solid track record.",
+    "clauses": [
+      {"clause_type": "warranty", "clause_text": "Seller warrants the hardware will be free from material defects for 24 months from delivery and will perform in accordance with the published specifications.", "section_reference": "Clause 7"},
+      {"clause_type": "liability_cap", "clause_text": "Seller's aggregate liability shall not exceed the total contract value. Consequential damages are excluded.", "section_reference": "Clause 10"},
+      {"clause_type": "payment_terms", "clause_text": "Invoices are payable within 45 days of delivery.", "section_reference": "Clause 5"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of England and Wales.", "section_reference": "Clause 16"},
+      {"clause_type": "force_majeure", "clause_text": "Neither party shall be liable for delay or failure to perform caused by events beyond its reasonable control, provided the affected party gives prompt notice and uses reasonable efforts to mitigate.", "section_reference": "Clause 13"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_009",
+    "contract_name": "Master Service Agreement - Managed IT Support",
+    "contract_type": "master_service_agreement",
+    "counterparty_name": "Northbridge Analytics Ltd",
+    "counterparty_jurisdiction": "GB",
+    "effective_date": "2026-07-25",
+    "contract_value": 96000.00,
+    "currency": "GBP",
+    "governing_law": "England and Wales",
+    "contract_summary": "Third engagement with an existing, well-known counterparty for managed IT support services, low contract value.",
+    "clauses": [
+      {"clause_type": "indemnification", "clause_text": "Each party shall indemnify the other against third-party claims arising from its breach, capped at 12 months' fees, excluding claims for gross negligence or IP infringement which remain uncapped.", "section_reference": "Clause 13"},
+      {"clause_type": "liability_cap", "clause_text": "Aggregate liability of either party shall not exceed 1x the total fees paid in the preceding 12 months. Neither party shall be liable for consequential losses.", "section_reference": "Clause 14"},
+      {"clause_type": "termination", "clause_text": "Either party may terminate for convenience on 60 days' written notice, or for material breach following a 30-day cure period.", "section_reference": "Clause 17"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of England and Wales.", "section_reference": "Clause 20"},
+      {"clause_type": "confidentiality", "clause_text": "Both parties shall keep confidential information disclosed by the other party confidential for 3 years following termination.", "section_reference": "Clause 11"},
+      {"clause_type": "payment_terms", "clause_text": "Invoices are payable within 30 days of receipt.", "section_reference": "Clause 7"},
+      {"clause_type": "data_protection", "clause_text": "Vendor shall process personal data only in accordance with Client's instructions and UK GDPR, and the parties shall execute a data processing addendum.", "section_reference": "Clause 15"}
+    ]
+  },
+  {
+    "contract_id": "CONTRACT_010",
+    "contract_name": "Vendor Agreement - Customer Support Outsourcing",
+    "contract_type": "vendor_agreement",
+    "counterparty_name": "Pinnacle BPO Services Ltd",
+    "counterparty_jurisdiction": "IN",
+    "effective_date": "2026-08-01",
+    "contract_value": 275000.00,
+    "currency": "GBP",
+    "governing_law": "England and Wales",
+    "contract_summary": "18-month outsourced customer support agreement processing UK customer personal data, first engagement with this vendor.",
+    "clauses": [
+      {"clause_type": "liability_cap", "clause_text": "Vendor's aggregate liability shall not exceed 2x the total fees paid in the preceding 12 months.", "section_reference": "Clause 12"},
+      {"clause_type": "termination", "clause_text": "Either party may terminate for material breach following a 30-day cure period, or for convenience on 60 days' notice.", "section_reference": "Clause 16"},
+      {"clause_type": "payment_terms", "clause_text": "Invoices are payable within 30 days of receipt.", "section_reference": "Clause 8"},
+      {"clause_type": "confidentiality", "clause_text": "Both parties shall keep confidential information disclosed by the other party confidential for 3 years following termination.", "section_reference": "Clause 10"},
+      {"clause_type": "warranty", "clause_text": "Vendor warrants services will be performed with reasonable skill and care to industry standard.", "section_reference": "Clause 9"},
+      {"clause_type": "governing_law", "clause_text": "This agreement is governed by the laws of England and Wales.", "section_reference": "Clause 19"}
+    ]
+  }
+]
