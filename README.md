@@ -1,4 +1,4 @@
-Contract Intelligence Agent
+**Contract Intelligence Agent**
 
 Multi-agent contract risk triage system - playbook comparison, missing-clause detection, risk scoring, redline drafting, HITL queue, and audit trail for transactional legal review.
 
@@ -6,7 +6,7 @@ Python 3.11+ | License: MIT | Status: Production-Ready Demo | Powered by Claude 
 
 ---
 
-Executive Summary
+**Executive Summary**
 
 The Pain Points This Solves
 
@@ -32,9 +32,9 @@ Clients and compliance functions increasingly expect a documented rationale for 
 
 ---
 
-Business Value in Legal and Contract Operations
+**Business Value in Legal and Contract Operations**
 
-Cost Reduction
+**Cost Reduction**
 
 Metric | Before | After
 Time to first-pass review one contract | 30-60 minutes | Under 10 minutes (AI pre-work done)
@@ -44,7 +44,7 @@ Missing-clause detection | Inconsistent, reviewer-dependent | 100% of expected c
 
 If a legal team or firm reviews thousands of commercial contracts a year and this halves first-pass review time on standard agreements, that capacity can be redirected to the contracts that genuinely need senior judgment.
 
-Risk Reduction
+**Risk Reduction**
 
 Missed liability exposure, one-sided indemnification, and unenforceable non-compete clauses are the kind of gaps that surface expensively later, in a dispute or renegotiation, rather than at signature. Systematic playbook comparison and missing-clause detection catch these before signature, not after.
 
@@ -54,7 +54,7 @@ Contract Intelligence Agent removes the most repetitive part of transactional re
 
 ---
 
-The Problem
+**The Problem**
 
 Large firms and in-house legal teams review a high volume of similar commercial contracts: MSAs, vendor agreements, NDAs, licensing deals, leases, employment agreements. Most of the first pass is not novel legal reasoning - it is playbook comparison. That comparison is done manually, inconsistently, and from memory.
 
@@ -64,7 +64,7 @@ The problem is not that lawyers cannot spot a bad clause. It is that first-pass 
 
 ---
 
-What Contract Intelligence Agent Does
+**What Contract Intelligence Agent Does**
 
 A three-agent pipeline that triages a contract from raw clauses to a documented risk assessment in under 30 seconds:
 
